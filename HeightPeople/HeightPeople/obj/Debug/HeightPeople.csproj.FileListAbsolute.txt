@@ -1,0 +1,7 @@
+D:\С# программирование\HeightPeople\HeightPeople\bin\Debug\HeightPeople.exe.config
+D:\С# программирование\HeightPeople\HeightPeople\bin\Debug\HeightPeople.exe
+D:\С# программирование\HeightPeople\HeightPeople\bin\Debug\HeightPeople.pdb
+D:\С# программирование\HeightPeople\HeightPeople\obj\Debug\HeightPeople.csprojAssemblyReference.cache
+D:\С# программирование\HeightPeople\HeightPeople\obj\Debug\HeightPeople.csproj.CoreCompileInputs.cache
+D:\С# программирование\HeightPeople\HeightPeople\obj\Debug\HeightPeople.exe
+D:\С# программирование\HeightPeople\HeightPeople\obj\Debug\HeightPeople.pdb

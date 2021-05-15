@@ -1,0 +1,7 @@
+D:\С# программирование\minimumNumber\minimumNumber\bin\Debug\minimumNumber.exe.config
+D:\С# программирование\minimumNumber\minimumNumber\bin\Debug\minimumNumber.exe
+D:\С# программирование\minimumNumber\minimumNumber\bin\Debug\minimumNumber.pdb
+D:\С# программирование\minimumNumber\minimumNumber\obj\Debug\minimumNumber.csprojAssemblyReference.cache
+D:\С# программирование\minimumNumber\minimumNumber\obj\Debug\minimumNumber.csproj.CoreCompileInputs.cache
+D:\С# программирование\minimumNumber\minimumNumber\obj\Debug\minimumNumber.exe
+D:\С# программирование\minimumNumber\minimumNumber\obj\Debug\minimumNumber.pdb
